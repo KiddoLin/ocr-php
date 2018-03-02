@@ -1,6 +1,6 @@
 # ocr-php
-PHP version >=7.0.13
-框架使用ThinkPHP 5.1.5,因为其中封装了很多PHP-CLI模式下的类，比较方便，具体查看官方的文档
+ + PHP version >=7.0.13
+ + 框架使用ThinkPHP 5.1.5,因为其中封装了很多PHP-CLI模式下的类，比较方便，具体查看官方的文档
 
 
 ThinkPHP 5.1
